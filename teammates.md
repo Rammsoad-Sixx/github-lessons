@@ -12,3 +12,8 @@
 10. Georgina Fraire
 11. cherry
 12. commit to test upstream
+13. Daniel Escamilla
+14. Jaime Contreras
+15. Enrique Amaya
+16. Georgina Fraire
+17. Giordy Romero
